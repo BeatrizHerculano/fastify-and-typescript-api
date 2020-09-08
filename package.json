@@ -1,0 +1,15 @@
+{
+  "name": "fastify-api",
+  "version": "1.0.0",
+  "description": "A api with fastify and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.3.0",
+    "typescript": "^4.0.2"
+  }
+}
