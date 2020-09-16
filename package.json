@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^3.3.0"
+    "fastify": "^3.3.0",
+    "fastify-decorators": "^3.2.3",
+    "fastify-plugin": "^2.3.4"
   },
   "devDependencies": {
     "@types/jest": "^26.0.13",
